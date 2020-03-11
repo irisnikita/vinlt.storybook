@@ -1,0 +1,3 @@
+[submodule "application"]
+ path = client
+ url = https://github.com/irisnikita/vinlt.storybook.git
